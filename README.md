@@ -30,6 +30,11 @@ The application includes:
 - Git & GitHub
 - Vercel (Frontend Deployment)
 - Render / AWS (Backend Deployment)
+
+- ## 🌐 Frontend Deployment
+
+- Hosted on Vercel
+- Live URL: https://mern-stack-task-15-full-stack-integ.vercel.app/
 - 
 ## 🌐 Backend Deployment
 
