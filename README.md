@@ -30,8 +30,11 @@ The application includes:
 - Git & GitHub
 - Vercel (Frontend Deployment)
 - Render / AWS (Backend Deployment)
+- 
+## 🌐 Backend Deployment
 
----
+- Hosted on Render
+- Live API URL: https://student-management-api-lpp1.onrender.com/students
 
 
 
