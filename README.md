@@ -33,4 +33,8 @@ The application includes:
 
 ---
 
-## 📁 Project Structure
+
+
+<img width="1384" height="755" alt="image" src="https://github.com/user-attachments/assets/5b48e7a3-b12f-4b3a-b581-b205ad61a28d" />
+
+<img width="639" height="333" alt="image" src="https://github.com/user-attachments/assets/ef17a63f-1d43-4ff9-92a9-54a6be86a3f4" />
